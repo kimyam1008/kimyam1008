@@ -3,9 +3,9 @@
 
 ### Hi there 👋, my name is yoon
 
-🚀 Always learning, always improving.
-🌱 Currently exploring Spring Boot & Cloud services.
-💻 Passionate about building scalable web applications and clean code.
+🚀 Always learning, always improving.<br>
+🌱 Currently exploring Spring Boot & Cloud services.<br>
+💻 Passionate about building scalable web applications and clean code.<br>
 
 Skills: JAVA / SPRING /  ORACLE / MYSQL / JAVASCRIPT / THYMELEAF / HTML / CSS
 
