@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Hello,%20Welcome%20to%20my%20GitHub!&fontSize=25)
 
 
-### Hi there 👋, my name is yoon
+### Hi there 👋, my name is yoon sun
 
 💻 Passionate about building scalable web applications and clean code.<br>
 🚀 Always learning, always improving.<br>
@@ -15,7 +15,8 @@ Skills: JAVA / SPRING /  ORACLE / MYSQL / JAVASCRIPT / THYMELEAF / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kimyam1008)  
 
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimyam1008&theme=cold)
+<img src="http://mazandi.herokuapp.com/api?handle=kimyam1008&theme=cold"/>
 
 <!--
 **kimyam1008/kimyam1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
