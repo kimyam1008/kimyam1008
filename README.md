@@ -11,9 +11,6 @@ Skills: JAVA / SPRING /  ORACLE / MYSQL / JAVASCRIPT / THYMELEAF / HTML / CSS
 
 - 🌱 I’m currently learning JPA, Spring Boot, and CI/CD. 
 - 📫 How to reach me: kimyam1008@gmail.com 
-<br>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kimyam1008)  
 
 
 <img src="https://github.com/kimyam1008/kimyam1008/blob/output/github-contribution-grid-snake.svg"/>
