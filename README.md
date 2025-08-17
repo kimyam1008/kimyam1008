@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Hello,%20Welcome%20to%20my%20GitHub!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Hello,%20Welcome%20to%20my%20GitHub!&fontSize=25)
 
 <!--
 **kimyam1008/kimyam1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
